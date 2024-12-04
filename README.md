@@ -16,7 +16,7 @@ Welcome to my GitHub profile! Here’s a little about me:
 - **Cloud Platforms:** AWS, Azure
 
 ## 📈 GitHub Stats
-![Rachana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RachanaShirke&show_icons=true&theme=radical)
+![Rachana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mani-Rachu&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 - **Email:** [rachanashirke910@gmail.com](mailto:rachanashirke910@gmail.com)
@@ -29,3 +29,4 @@ Welcome to my GitHub profile! Here’s a little about me:
 ---
 
 ⭐️ _Feel free to explore my repositories, collaborate on projects, or just say hi!_
+
