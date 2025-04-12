@@ -1,32 +1,81 @@
-# Hi there 👋, I'm Rachana Ramesh Shirke!
+# 👋 Hi, I'm Rachana Ramesh Shirke
 
-Welcome to my GitHub profile! Here’s a little about me:
-
-## 🚀 About Me
-- 🎓 I hold a **Master's degree in Mathematics** and am currently pursuing a **Master of Data Science**.
-- 🌱 I’m passionate about **AI**, **NLP**, **Mathematics**, **Statistics**, **Machine Learning**, **Deep Learning**, and **Big Data Analytics**.
-- 🔭 I’m currently working on projects related to **Satellite Orbit Prediction**.
-- 🌟 Fun fact: I enjoy solving challenging analytical problems and love exploring how data shapes the world around us.
-
-## 🛠️ Technologies & Tools
-- **Languages:** Python, R, SQL, C, C++
-- **Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
-- **Tools:** Git, Docker, Jupyter, ArcGIS Pro
-- **Database Systems:** MySQL, PostgreSQL
-- **Cloud Platforms:** AWS, Azure
-
-## 📈 GitHub Stats
-![Rachana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mani-Rachu&show_icons=true&theme=radical)
-
-## 📫 How to Reach Me
-- **Email:** [rachanashirke910@gmail.com](mailto:rachanashirke910@gmail.com)
-- **LinkedIn:** [Rachana Shirke](https://linkedin.com/in/rachana-shirke-a39b70243)
-
-## ⚡ Fun Stuff
-- 🕹️ I love exploring new technologies and working on innovative projects.
-- 📚 I enjoy reading about **space science** and **data science**.
+🎓 Master’s in Mathematics | 📊 Pursuing Master of Data Science  
+🚀 AI Enthusiast | 🛰️ Satellite Orbit Prediction | 💡 Data Science Explorer
 
 ---
 
-⭐️ _Feel free to explore my repositories, collaborate on projects, or just say hi!_
+## 💼 What I'm Working On
 
+🔭 **Currently focused on:**  
+- 🛰️ [Satellite Orbit Prediction System](#)  
+- 🧠 AI-driven models for space data  
+
+
+👯 **Looking to collaborate on:**  
+- AI/ML & Data Science projects  
+- Real-time geospatial and satellite applications  
+- NLP-based research problems
+
+🤝 **Looking for help with:**  
+- Deploying ML models on the cloud  
+- Improving model performance and interpretability
+
+---
+
+## 🌱 Currently Learning
+- Deep Reinforcement Learning  
+- ArcGIS Pro for Geospatial Analysis  
+- LangChain 
+
+💬 **Ask me about:**  
+Python, TensorFlow, NLP, Time-Series Analysis, LSTMs, ArcGIS
+
+---
+
+## 📫 How to Reach Me
+- 📧 Email: [rachanashirke910@gmail.com](mailto:rachanashirke910@gmail.com)  
+- 🔗 LinkedIn: [Rachana Shirke](https://www.linkedin.com/in/rachanashirke/)  
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Languages:**  
+`Python` `R` `SQL` `C` `C++`
+
+**Libraries/Frameworks:**  
+`TensorFlow` `PyTorch` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+**Tools:**  
+`Git` `Docker` `Jupyter` `ArcGIS` 
+
+**Databases & Cloud:**  
+ `PostgreSQL` `MongoDB`
+
+---
+
+## 📈 GitHub Stats
+
+![Rachana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachana-shirke&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rachana-shirke&layout=compact&theme=radical)
+
+---
+
+## ⚡ Fun Facts
+
+- 📚 Obsessed with Space and Satellite data 📡  
+- 🤓 I enjoy solving analytical challenges  
+- 💫 I believe in data-driven stories that transform ideas into reality
+
+---
+
+## 🔗 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachanashirke/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/rachana-shirke)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:rachanashirke910@gmail.com)
+
+---
+
+⭐️ *Feel free to explore my repositories, give them a ⭐ if you find something helpful, and let’s build something amazing together!*
