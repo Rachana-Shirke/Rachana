@@ -55,10 +55,6 @@ Python, TensorFlow, NLP, Time-Series Analysis, LSTMs, ArcGIS
 
 ---
 
-## 📈 GitHub Stats
-
-![Rachana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachana-shirke&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rachana-shirke&layout=compact&theme=radical)
 
 ---
 
